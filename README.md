@@ -1,6 +1,6 @@
 
 ## Olá, eu sou a Vitória!
-🎓 Estudante do 5º semestre de Ciência da Computação na UFSCar <br>
+🎓 Estudante do 6º semestre de Ciência da Computação na UFSCar <br>
 💻 Focada em Desenvolvimento Web e Aprendizado de Máquina
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriahilgert&layout=compact&theme=onedark"/> 
